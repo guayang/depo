@@ -1,2 +1,2 @@
 # depo
-Example from Agile Web Development with Rail
+Online store example from Agile Web Development with Rails 4
