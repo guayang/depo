@@ -51,13 +51,13 @@ en:
 
   orders:
     new:
-      legend: "Please Enter Your Details"
+      legend:     "Please Enter Your Details"
     form:
-      name: "Name"
-      address_html: "Address"
-      email: "E-mail"
-      pay_type: "Pay with"
+      name:            "Name"
+      address_html:    "Address"
+      email:           "E-mail"
+      pay_type:        "Pay with"
       pay_prompt_html: "Select a payment method"
-      submit: "Place Order"
+      submit:          "Place Order"
 
-  thanks:     "Thank you for your order"
+  thanks:         "Thank you for your order"
